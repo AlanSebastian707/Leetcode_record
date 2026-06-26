@@ -4,9 +4,18 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0125-valid-palindrome/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
