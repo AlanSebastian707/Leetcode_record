@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0015-3sum/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
