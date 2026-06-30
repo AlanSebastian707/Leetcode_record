@@ -10,6 +10,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -29,4 +30,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
