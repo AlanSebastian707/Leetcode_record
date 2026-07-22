@@ -47,4 +47,20 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
