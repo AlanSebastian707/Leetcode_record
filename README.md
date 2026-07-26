@@ -21,11 +21,13 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0217-contains-duplicate/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
