@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/AlanSebastian707/Leetcode_record/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/AlanSebastian707/Leetcode_record/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
