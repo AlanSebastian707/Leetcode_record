@@ -20,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0015-3sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -54,6 +55,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
