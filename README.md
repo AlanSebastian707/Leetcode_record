@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0020-valid-parentheses/) | Easy |
+| [0076-minimum-window-substring](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Array
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0076-minimum-window-substring/) | Hard |
 | [0217-contains-duplicate](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Binary Search
