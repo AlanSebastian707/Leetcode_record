@@ -78,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AlanSebastian707/Leetcode_record/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0020-valid-parentheses/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AlanSebastian707/Leetcode_record/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
