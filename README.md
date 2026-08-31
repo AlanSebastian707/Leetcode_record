@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/AlanSebastian707/Leetcode_record/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/AlanSebastian707/Leetcode_record/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlanSebastian707/Leetcode_record/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
