@@ -101,11 +101,13 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0190-reverse-bits](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0190-reverse-bits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0206-reverse-linked-list/) | Easy |
@@ -119,4 +121,16 @@
 | [0021-merge-two-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0206-reverse-linked-list/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
