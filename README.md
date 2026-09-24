@@ -10,6 +10,7 @@
 | [0141-linked-list-cycle](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0143-reorder-list/) | Medium |
 | [0392-is-subsequence](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0392-is-subsequence/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/AlanSebastian707/Leetcode_record/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | [0125-valid-palindrome](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/AlanSebastian707/Leetcode_record/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
