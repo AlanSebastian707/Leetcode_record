@@ -9,6 +9,7 @@
 | [0125-valid-palindrome](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0143-reorder-list/) | Medium |
+| [0392-is-subsequence](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@
 | [0020-valid-parentheses](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
