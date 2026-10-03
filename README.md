@@ -80,10 +80,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +140,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
