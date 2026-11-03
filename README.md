@@ -85,6 +85,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@
 | [0110-balanced-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +169,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
