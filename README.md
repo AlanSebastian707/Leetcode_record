@@ -81,6 +81,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
@@ -88,6 +89,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 ## Math
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AlanSebastian707/Leetcode_record/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
